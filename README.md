@@ -1,5 +1,4 @@
 # Event Registration Web Application
-
 ## AIM:
 To design, develop and deploy a web application for event registration.
 
