@@ -754,12 +754,8 @@ contact-91-8946050371-7358483736--Afd {
 ![Screenshot 2023-12-31 211835](https://github.com/SaravananPV3010/event-registration/assets/139754526/e8d21468-5982-483f-b077-48bdfe5cc175)
 ### Registration Page:
 ![Screenshot 2023-12-31 213128](https://github.com/musfiramahjabeen/event-registration/assets/138971008/061d9379-9dfb-4a01-ad63-0e371b5bb29e)
-
 ### Confirmation Page:
-
 ![Screenshot 2023-12-31 211916](https://github.com/SaravananPV3010/event-registration/assets/139754526/a6344b7d-503c-45ab-8cd4-49619e039b3a)
-
-
 ## Result:
 The program to design, develop and deploy a web application for event registration is
 completed successfully.
